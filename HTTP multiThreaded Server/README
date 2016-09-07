@@ -1,0 +1,12 @@
+nevosa
+
+nevo sayag 200484426
+
+Ex3-HTTP Server (part b) 
+
+server.c - I created a server that can handle with requests and gives responses for clients
+
+
+marks:
+1- my project didn't include the threadpool.c file, like shimrit says.
+
