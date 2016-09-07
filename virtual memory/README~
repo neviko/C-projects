@@ -1,0 +1,36 @@
+
+//--------------------------------------
+
+nevosa
+200484426 nevo sayag
+
+//--------------------------------------
+
+//DISCRIPTION
+
+*in this program we mimic the computer memory system.
+
+*we mimic the swap memory , his job is to be an extantion for the ram memory.
+
+*we mimic the ram memory.
+
+*we maintain dataBase that save all the information about pages.
+
+*we mimic the heap and stack memory.
+
+*we implicate the lru algorithem for page paging , my lru based on the bit map table and use her to implicate my lru algorithem.
+
+*we load data from file(exe file), and we learn how to load data to the ram memory, and how 
+to save changes on the swap area.
+
+//-----------------------------------------------------------------------
+
+
+
+// HOW TO COMPILE??
+1- gcc mem_c.c MAIN.c out
+2- use the make file with the command -make
+
+
+//HOW TO RUN??
+1- ./out
